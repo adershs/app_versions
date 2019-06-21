@@ -9,7 +9,7 @@
                 * Now you can see the work progress
             </description>
             <pubDate>Jun 15, 1:12 PM</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=in.assethomes.assetdelight" sparkle:version="1.15.0" sparkle:os="android"/>
+            <enclosure url="https://play.google.com/store/apps/details?id=in.assethomes.assetdelight" sparkle:version="1.4.0" sparkle:os="android"/>
             <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
@@ -21,7 +21,7 @@
                 * Now you can see the work progress
             </description>
             <pubDate>Jun 15, 1:12 PM</pubDate>
-            <enclosure url="https://apps.apple.com/qa/app/asset-delight/id1463008306" sparkle:version="1.15.0" sparkle:os="iOS"/>
+            <enclosure url="https://apps.apple.com/qa/app/asset-delight/id1463008306" sparkle:version="1.4.0" sparkle:os="iOS"/>
             <sparkle:minimumSystemVersion>8.0</sparkle:minimumSystemVersion>
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
